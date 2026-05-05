@@ -145,5 +145,5 @@ jupyter notebook 2_Unemployment_Analysis/Unemployment_Analysis.ipynb
 
 ## Author
 
-**Mudassir** — CodeAlpha Data Science Intern  
+**Muhammad Asif Khan** — CodeAlpha Data Science Intern  
 [GitHub](https://github.com) · [LinkedIn](https://linkedin.com)
